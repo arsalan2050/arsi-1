@@ -10,7 +10,7 @@ sd
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 یبfdwe
 # Runtime data
-pids
+pidsdf
 *.pidیب
 *.seed
 *.pid.lock
